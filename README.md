@@ -27,6 +27,7 @@ it is a fastboot unbrick tool for realme c3 and narzo 10A
 ```
   boot.img
   vbmeta.img
+  recovery.img
   super super_sparsechunk1
   super super_sparsechunk2
   super super_sparsechunk3
