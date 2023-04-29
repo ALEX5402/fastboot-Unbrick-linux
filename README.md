@@ -37,7 +37,7 @@ it is a fastboot unbrick tool for realme c3 and narzo 10A
 ```
 
  files to the platform-tools directory you made priviously
- - download [rescue.sh](https://developer.android.com/tools/releases/platform-tools) file to that folder
+ - download [rescue.sh](https://github.com/ALEX5402/fastboot-Unbrick-linux/blob/main/rescue.sh) file to that folder
  
 
     
